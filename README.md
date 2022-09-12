@@ -24,7 +24,10 @@ A C++ project that uses OOP concepts and File Handling to store the records of r
 # Screenshots:
 
 ![1](/Screenshots/1.png)
+![111](https://user-images.githubusercontent.com/106639694/189611194-6f6728af-a9ff-4949-955f-26a3d65c737f.png)
 
 ![2](/Screenshots/2.png)
+![112](https://user-images.githubusercontent.com/106639694/189611212-c23956a7-cfcf-434c-8174-532bdfdace38.png)
 
 ![3](/Screenshots/3.png)
+![113](https://user-images.githubusercontent.com/106639694/189611237-1129f6bf-810b-40d9-a25c-7859c45c1a0c.png)
